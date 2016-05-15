@@ -22,7 +22,7 @@ Collection of useful resources for [BUX](https://getbux.com) traders.
 * [libbux](https://github.com/burningtree/libbux) - BUX library for Node.js
 
 ### Automatic trading
-* [buxd](* [bux](https://github.com/burningtree/buxd) - Simple BUX agent
+* [buxd](https://github.com/burningtree/buxd) - Simple BUX agent
 
 ### Other
 * [bux](https://github.com/burningtree/bux) - command line BUX interface
