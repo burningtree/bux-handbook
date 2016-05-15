@@ -11,6 +11,9 @@ Collection of useful resources for [BUX](https://getbux.com) traders.
 ### Financial News
 * [Investing.com](http://www.investing.com/) - Stock Market Quotes & Financial News
 
+### Books
+* [13 Laws All Trader's Should Live By](https://www.trendsoftrading.com/free-zone.html)
+
 ## Community
 * [RobinTheTrader](http://robinthetrader.nl/)
 
