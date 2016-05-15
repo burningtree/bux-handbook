@@ -17,3 +17,13 @@ Collection of useful resources for [BUX](https://getbux.com) traders.
 ## Community
 * [RobinTheTrader](http://robinthetrader.nl/)
 
+## API / Software
+### Libraries
+* [libbux](https://github.com/burningtree/libbux) - BUX library for Node.js
+
+### Automatic trading
+* [buxd](* [bux](https://github.com/burningtree/buxd) - Simple BUX agent
+
+### Other
+* [bux](https://github.com/burningtree/bux) - command line BUX interface
+* [bitbar-bux](https://github.com/burningtree/bitbar-bux) - BUX plugin for [BitBar](https://getbitbar.com/), OS X menubar application
